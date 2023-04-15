@@ -1,7 +1,6 @@
 import requests
 import random
 import json
-import traceback
 import telebot
 
 TOKEN = '5961004234:AAGgpbuWwnSc382mXL14m97Glu96_z2nBng'
